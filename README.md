@@ -27,7 +27,7 @@ _sudo airmon-ng start wlan0_
 
 Next ensure that airodump-ng is running to ensure channel scanning is operational otherwise you'll miss some APs
 
-_sudo airodump-ng wlan1mon --band abg_
+_sudo airodump-ng wlan0mon --band abg_
 
 ---
 
