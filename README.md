@@ -33,7 +33,7 @@ _sudo airodump-ng wlan1mon --band abg_
 
 ## Usage 
 
-_sudo python3 wardriver6.py -i wlan1mon -wps1 -open -wep_
+_sudo python3 wardriver6.py -i wlan0mon -wps1 -open -wep_
 
 The command-line parameters _-wps1, -open, -wep_ can be removed depending on your requirements.<br><br>
 
