@@ -1,6 +1,5 @@
 # wardriver.py
-A Python-based wardriving tool that scans for APs that are potentially insecure
-such as WEP, OPEN or WPS1.0
+A Python-based wardriving tool that scans for APs that are potentially insecure, such as WEP, OPEN or WPS v1.0
 and logs to the console and sends a bleep when it finds one.
 
 To make this work, the following dependencies must be met:
