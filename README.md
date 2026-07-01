@@ -2,6 +2,8 @@
 A Python-based wardriving tool that scans for APs that are potentially insecure, such as WEP, OPEN or WPS v1.0
 and logs to the console and sends a bleep when it finds one.
 
+Excuse my bad coding! LOL
+
 To make this work, the following dependencies must be met:
 * Kali Linux 2026.1 or later (that's what was used to develop this tool)
 * A Wi-Fi adapter that supports monitor mode (I like Alfa)
