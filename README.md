@@ -35,4 +35,13 @@ _sudo airodump-ng wlan1mon --band abg_
 
 _sudo python3 wardriver6.py -i wlan1mon -wps1 -open -wep_
 
-The command-line parameters _-wps1, -open, -wep_ can be removed depending on your requirements.
+The command-line parameters _-wps1, -open, -wep_ can be removed depending on your requirements.<br><br>
+
+
+
+<img width="612" height="219" alt="image" src="https://github.com/user-attachments/assets/05810461-e008-44c8-b841-5012594b595b" />
+
+```diff
+! Example screenshot of the application in operation
+```
+
