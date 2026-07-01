@@ -32,6 +32,7 @@ _sudo airodump-ng wlan0mon --band abg_
 ---
 
 ## Usage 
+And in a second terminal window....
 
 _sudo python3 wardriver6.py -i wlan0mon -wps1 -open -wep_
 
