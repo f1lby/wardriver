@@ -8,7 +8,7 @@ Excuse my bad coding! LOL
 
 To make this work, the following dependencies must be met:
 * Kali Linux 2026.1 or later (that's what was used to develop this tool)
-* A Wi-Fi adapter that supports monitor mode (I like Alfa)
+* A Wi-Fi adapter that supports monitor mode (I like Alfa hardware)
 * Run as sudo and NOT root otherwise the audio notifications don't work!
 
 * Install an audio application to send the beep through the speaker
